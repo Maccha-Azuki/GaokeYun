@@ -2,6 +2,6 @@
 
 - debug记录
 - 作业
-- 实习报告
-- 笔记
+- 每日日报
+- 实习报告(fudingyi2018080405.docx)
 - Github [Maccha-Azuki](https://github.com/Maccha-Azuki)
